@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados Uma grande Loja Online
+# Projeto de Análise de Dados - Uma grande Loja Online
 
 ## Descrição do Projeto
 Este projeto tem como objetivo realizar uma análise de dados em uma grande loja online com o intuito de identificar e validar hipóteses que podem aumentar a receita. Em colaboração com o departamento de marketing, foi compilada uma lista de hipóteses sobre possíveis ações que poderiam impactar diretamente os resultados da loja.
@@ -32,7 +32,7 @@ Após a execução do teste A/B, os resultados foram analisados para verificar s
 - Python: Linguagem de programação principal utilizada para análise de dados, permitindo a execução de scripts e manipulação de grandes volumes de informações.
 - Pandas: Biblioteca utilizada para manipulação, limpeza e análise de dados, especialmente para trabalhar com estruturas de dados como DataFrames, permitindo fácil leitura e processamento de dados em formatos como CSV e Excel.
 - Matplotlib: Biblioteca para visualização de dados, permitindo a criação de gráficos e visualizações estáticas, interativas ou animadas.
-- Numpy: Biblioteca que oferece suporte para trabalhar com arrays multidimensionais e matrizes, além de fornecer funções matemáticas eficientes para operar sobre esses objetos.
+- NumPy: Biblioteca que simplifica o manuseio de vetores e matrizes, acelerando cálculos matemáticos e estatísticos nos dados.
 - Math: Biblioteca que disponibiliza várias funções matemáticas básicas, como operações aritméticas, trigonométricas, logaritmos, entre outras.
 - Seaborn: Biblioteca de visualização de dados baseada no Matplotlib, que facilita a criação de gráficos estatísticos bonitos e informativos, com alta customização e integração com Pandas.
 - Scipy: Biblioteca que complementa o Numpy, oferecendo funções adicionais para otimização, integração, interpolação e estatísticas, sendo útil para cálculos científicos e técnicos.
@@ -42,30 +42,30 @@ Após a execução do teste A/B, os resultados foram analisados para verificar s
 ## Imagens
 
 ### Tabela hipóteses
-<img src="https://github.com/user-attachments/assets/60132568-ff30-4f3f-8202-b7c18f44220e" alt="Projeto 9" width="200"/>
+<img src="https://github.com/user-attachments/assets/60132568-ff30-4f3f-8202-b7c18f44220e" alt="Projeto 9" width="1000"/>
 
-### Hipótese ICE
-<img src="https://github.com/user-attachments/assets/7ee8a939-7935-4458-b28b-c9655848a888" alt="Projeto 9" width="200"/>
+### Tabela - Hipótese ICE
+<img src="https://github.com/user-attachments/assets/7ee8a939-7935-4458-b28b-c9655848a888" alt="Projeto 9" width="1000"/>
 
-### Hipótese RICE
-<img src="https://github.com/user-attachments/assets/806d0643-542d-4321-8bb2-01085a14f0dc" alt="Projeto 9" width="200"/>
+### Tabela - Hipótese RICE
+<img src="https://github.com/user-attachments/assets/806d0643-542d-4321-8bb2-01085a14f0dc" alt="Projeto 9" width="1000"/>
 
-### Pedidos
-<img src="https://github.com/user-attachments/assets/8b8f77d9-34be-465f-b094-ea656ad8f278" alt="Projeto 9" width="200"/>
+### Tabela - Pedidos
+<img src="https://github.com/user-attachments/assets/8b8f77d9-34be-465f-b094-ea656ad8f278" alt="Projeto 9" width="1000"/>
 
-### Visitas
-<img src="https://github.com/user-attachments/assets/c327d0f4-41c2-4c01-996b-fdb4176f34a9" alt="Projeto 9" width="200"/>
+### Tabela - Visitas
+<img src="https://github.com/user-attachments/assets/c327d0f4-41c2-4c01-996b-fdb4176f34a9" alt="Projeto 9" width="1000"/>
 
-### Receita acumulada
-<img src="https://github.com/user-attachments/assets/7f12ab53-3f27-4c9a-b329-e7b36556f086" alt="Projeto 9" width="200"/>
+### Gráfico - Receita acumulada
+<img src="https://github.com/user-attachments/assets/7f12ab53-3f27-4c9a-b329-e7b36556f086" alt="Projeto 9" width="800"/>
 
-### Receita por data
-<img src="https://github.com/user-attachments/assets/1184b002-fe43-4bbe-8a79-9e81ecf1bf37" alt="Projeto 9" width="200"/>
+### Gráfico - Receita por data
+<img src="https://github.com/user-attachments/assets/1184b002-fe43-4bbe-8a79-9e81ecf1bf37" alt="Projeto 9" width="800"/>
 
 ## Resultados
-- Com os resultados dos testes, foi possível observar que existe uma diferença significativa entre os grupos A e B.
-- O grupo B, aparentemente, obteve um desempenho superior ao grupo A, sugerindo que a mudança testada foi eficaz.
-- Conclui-se que o teste A/B teve um impacto positivo e, portanto, a estratégia testada pode ser adotada e continuada, validando a eficácia das modificações implementadas.
+- A análise dos resultados dos testes evidenciou uma diferença estatisticamente significativa entre os grupos A e B.
+- Observou-se que o grupo B apresentou um desempenho superior ao grupo A, indicando que a alteração testada foi eficaz.
+- Diante desses achados, conclui-se que o teste A/B gerou um impacto positivo, o que justifica a adoção e a continuidade da estratégia avaliada, corroborando a eficácia das modificações implementadas.
 
 ## Aprendizados
 - Análise de dados: Avaliação dos dados para identificar padrões e insights.
